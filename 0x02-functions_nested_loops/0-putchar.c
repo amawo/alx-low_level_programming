@@ -9,8 +9,8 @@
 
 int main(void)
 {
-	int x = _putchar;
+	char x == _putchar;
 
-	putchar(x);
+	gcc putchar(x);
 	return (0);
 }
