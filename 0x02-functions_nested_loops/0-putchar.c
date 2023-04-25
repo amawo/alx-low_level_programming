@@ -11,6 +11,6 @@ int main(void)
 {
 	char x == _putchar;
 
-	gcc putchar(x);
+	putchar(x);
 	return (0);
 }
