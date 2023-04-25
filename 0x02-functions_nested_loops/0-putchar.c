@@ -1,16 +1,20 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - check the code
+ * main - print putchar
  *
  * Return: Always 0.
  */
 
 int main(void)
 {
-	char x = "_putchar";
-
-	putchar(x);
-	return (0);
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+return (0);
 }
