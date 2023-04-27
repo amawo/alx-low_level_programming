@@ -1,3 +1,5 @@
+# 0x00. C - Hello, World
+
 # Learning Objectives
 
 ## General
@@ -23,20 +25,46 @@
 * There should be no errors and no warnings during compilation
 * You are not allowed to use system
 * Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-## 0-preprocessor: Preprocessor
+## TASKS :
 
-## 1-compiler: Compiler
+### 0-preprocessor: Preprocessor
 
-## 2-assembler: Assembler
+### 1-compiler: Compiler
 
-## 3-name: Name
+### 2-assembler: Assembler
 
-## 4-puts.c: Hello, puts
+### 3-name: Name
 
-## 5-printf.c: Hello, printf
+### 4-puts.c: Hello, puts
 
-## 6-size.c: Size is not grandeur, and territory does not make a nation
+### 5-printf.c: Hello, printf
 
-## 100-intel: Intel
+### 6-size.c: Size is not grandeur, and territory does not make a nation
 
-## 101-quote.c:
+### 100-intel: Intel
+
+### 101-quote.c:
+
+
+
+# 0x03. C - Debugging
+
+# Learning Objectives
+
+## General
+* What is debugging
+* What are some methods of debugging manually
+* How to read the error messages
+## Requirements
+* Allowed editors: vi, vim, emacs
+* All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+* All your files should end with a new line
+* Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+* A README.md file at the root of the repo, containing a description of the repository
+* A README.md file, at the root of the folder of this project (i.e. 0x03-debugging), describing what this project is about
+## TASKS :
+
+### 0. Multiple mains
+### 1. Like, comment, subscribe
+### 2. 0 > 972?
+### 3. Leap year
