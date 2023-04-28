@@ -2,10 +2,9 @@
 
 /**
  * mul - multiple two integers
- * @a: first input
- * @b: second input
- *
- * Return: Always 0
+ * @a: first integer
+ * @b: second integer
+ * Return: multiplication
  */
 
 int mul(int a, int b);
