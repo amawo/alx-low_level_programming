@@ -2,7 +2,7 @@
 
 /**
  * _isupper - indicate if it is uppercase
- * @c: integer to verifie
+ * @c: input
  * return 0 or 1
  *
  */
