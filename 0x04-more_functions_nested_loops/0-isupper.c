@@ -3,7 +3,7 @@
 /**
  * _isupper - indicate if it is uppercase
  * @c: input
- * return 0 or 1
+ * Return: 1 if c is uppercase, 0 otherwise
  *
  */
 
