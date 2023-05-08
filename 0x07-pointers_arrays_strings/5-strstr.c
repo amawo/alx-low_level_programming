@@ -5,7 +5,7 @@
  * _strstr - a function that locates a substring -Entry point
  * @haystack: 1th input
  * @needle: 2nd input
- * 
+ *
  * Return: Always 0 (Success)
  */
 
