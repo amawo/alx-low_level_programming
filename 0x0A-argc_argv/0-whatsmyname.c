@@ -2,14 +2,14 @@
 #include "main.h"
  /**
   * main - print programe name
-  * Return
+  * @argv: An array containnig arguments 
+  * @argc: show number of arguments
+  *
+  * Return: Always 0 on success
   */
 
-int main(void)
+int main(int argc __attribute__((unused)), char *argv[])
 {
-	char name[50];
-
-	puts("the prog name: %s", name[50]);
-	gets("%s", &name[50]);
-	putchar('\n');
+	printf("%s\n", *argv);
+	return (0);
 }
