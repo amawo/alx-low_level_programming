@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include "dog.h"
 
-/*
- * init_dog - a function that initialize the struct dog
- * @d: a pointer
+/**
+ * init_dog - initialize the struct dog
+ * @d: a pointer to intialize
  * @name: element one
  * @age: element two
  * @owner: element tree
