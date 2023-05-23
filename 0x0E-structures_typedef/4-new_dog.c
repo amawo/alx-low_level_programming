@@ -67,7 +67,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 	int lenght1, lenght2;      /* longeur des deux chaines de char owner & name */
 
 	lenght1 = _strlen(name);
-	lenght2 = strlen(owner);
+	lenght2 = _strlen(owner);
 
 	my_dog = malloc(sizeof(dog_t));
 	if (my_dog == NULL)
