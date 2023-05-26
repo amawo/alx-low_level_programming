@@ -11,19 +11,21 @@
  */
 int sum_them_all(const unsigned int n, ...)
 {
+	int arg;
+	int result = 0;
+	unsigned int i;
+	va_list variable_arguments;
+
 	if (n == 0)
 		return (0);
 
-	int result = 0;
-
-	va_list variable_arguments;
 
 	va_start(variable_arguments, n);
 
 	/* redo the variable arguments and add them to the result*/
-	for (int i = 0; i < n; i++)
+	for (i = 0; i < n; i++)
 	{
-		int arg = va_arg(variable_arguments, int);
+		arg = va_arg(variable_arguments, int);
 
 		result += arg;
 	}
