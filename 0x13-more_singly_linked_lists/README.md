@@ -6,6 +6,7 @@
 - Start to look for the right source of information without too much help
 
 ## Data structure used in tis project :
+{
 
  /**
 
@@ -32,6 +33,8 @@ typedef struct listint_s
     struct listint_s *next;
 
 } listint_t;
+
+}
 
 ## Tasks:
 
