@@ -6,22 +6,13 @@
 - Start to look for the right source of information without too much help
 
 ## Data structure used in tis project :
-{
-
- /**
-
+/**
  .* struct listint_s - singly linked list
-
  .* @n: integer
-
  .* @next: points to the next node
-
  .*
-
  .* Description: singly linked list node structure
-
- .*
-
+  *
   */
 
 typedef struct listint_s
